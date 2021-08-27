@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyb3rhe4rt
 - 👀 I’m interested in computer science and coding
-- 🌱 I’m currently learning korean 
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tatimarie0123@gmail.com
 
